@@ -28,3 +28,18 @@ body {
 .AppPage {
 
 }
+
+.ShowPage{
+  button {
+    width: 200px;
+    background-color: red;
+    box-shadow: 8px 8px 16px rgba(255, 125, 88, 0.2);
+  }
+  form {
+    input[type="submit"] {
+      width: 400px;
+      background-color: pink;
+      box-shadow: 8px 8px 16px rgba(255, 125, 88, 0.2);
+    }
+  }
+}
